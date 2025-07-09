@@ -33,7 +33,7 @@ El programa realiza las siguientes acciones:
 
 ## Requisitos
 
-- El script utiliza los comandos `top`, `ps` y `df`. Asegúrate de que estos comandos estén disponibles en tu sistema.
+- El script utiliza los comandos `top`, `ps` y `df`. Asegúrate de que estos comandos estén disponibles en tu sistema
 
 ## Notas
 
